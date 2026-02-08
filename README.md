@@ -27,6 +27,11 @@ This project combines **two automation systems using a single Arduino**:
 ![Setup](images/model.jpeg)
 ---
 
+## 🎥 Demo Video
+👉 https://youtube.com/shorts/LVHhPRUyGQI?feature=share
+
+---
+
 ## 🧰 Components Required
 
 ### Controller

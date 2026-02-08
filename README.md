@@ -21,6 +21,11 @@ This project combines **two automation systems using a single Arduino**:
 ✅ Both systems work independently on one Arduino
 
 ---
+## 📸 Project Images
+
+### Setup
+![Setup](images/model.jpeg)
+---
 
 ## 🧰 Components Required
 
